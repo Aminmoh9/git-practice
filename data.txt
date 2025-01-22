@@ -1,4 +1,8 @@
 -Name:Ironhack
 Age:25
+<<<<<<< HEAD
 Favorite Color: Red
 
+=======
+Favorite Color: Purple
+>>>>>>> 1446216e4256250bd6d2aaf0a46f529b92e0728c
